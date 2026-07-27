@@ -1,2 +1,6 @@
 # AP-lab2
-This contain report
+
+This repo contains lab ex.
+
+
+
